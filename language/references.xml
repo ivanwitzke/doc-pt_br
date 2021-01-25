@@ -339,7 +339,7 @@ foo($a);
     </listitem>
     <listitem>
      <para>
-      Referências retornadas de fumções, como:
+      Referências retornadas de funções, como:
     <informalexample>
      <programlisting role="php">
 <![CDATA[
